@@ -1,3 +1,3 @@
-# TesterTheFoxYT.github.io
+# EaglerCraft-Launcher.github.io
 
-https://testerthefoxyt.github.io/
+[Launcher](https://testerthefoxyt.github.io/EaglerCraft-Launcher.github.io/)

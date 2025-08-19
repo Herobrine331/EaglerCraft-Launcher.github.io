@@ -2,4 +2,4 @@
 
 [Launcher](https://testerthefoxyt.github.io/EaglerCraft-Launcher.github.io/)
 
-[FULL](https://eaglercraft-launacher.gt.tc/) 
+[FULL](https://eaglercraft-launacher.wasmer.app/) 
